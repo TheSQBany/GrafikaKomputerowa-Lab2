@@ -132,7 +132,7 @@
             else if (figureChoice == 1)
             {
           
-                 graphics.strokePoly(x,y+30,x+15,y+26,x+26,y+15,x+30,y,x+26,y-15,x+15,y-26,x,y-30,x-15,y-26,x-26,y-15,x-30,y,x-26,y+15,x-15,y+26); //Pięciokąt
+                 graphics.strokePoly(x,y+30,x+15,y+26,x+26,y+15,x+30,y,x+26,y-15,x+15,y-26,x,y-30,x-15,y-26,x-26,y-15,x-30,y,x-26,y+15,x-15,y+26); 
                  graphics.fillPoly(x,y+30,x+15,y+26,x+26,y+15,x+30,y,x+26,y-15,x+15,y-26,x,y-30,x-15,y-26,x-26,y-15,x-30,y,x-26,y+15,x-15,y+26)
             }
             
